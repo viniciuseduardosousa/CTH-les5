@@ -1,6 +1,6 @@
 # Recept pannekoek
 
-![pannekoeken](pannekoeken.tiff)
+![pannekoeken](pannekoeken.webp)
 
 ## Benodigheden
 
